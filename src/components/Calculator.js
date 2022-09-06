@@ -6,7 +6,7 @@ class Calculator extends React.Component {
     return (
       <div className='calculator'>
         <div className='result'>
-          <p></p>
+          <p>0</p>
         </div>
 
         <span className='clear grey'>AC</span>
