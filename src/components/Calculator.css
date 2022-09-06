@@ -4,45 +4,40 @@
   flex-direction: row;
   width: 400px;
   box-shadow: 0 3px 10px 3px #aaa;
-  border-right: 0.01em solid #333;
-  border-bottom: 0.01em solid #333;
+  border: 0.01em solid #c4c4c4;
 }
 
 .result {
   width: 100%;
-  background-color: #000;
-  min-height: 2em;
+  background-color: #858693;
+  min-height: 1em;
   color: white;
 }
 
 .result > p {
-  padding: 0 1em;
+  padding: 0 0.2em;
   text-align: right;
-  line-height: 2em;
+  line-height: 1em;
 }
 
 span {
   box-sizing: border-box;
   text-align: center;
+  padding: 1em;
   cursor: pointer;
   width: 25%;
-  background-color: #ccc;
+  background-color: #e0e0e0;
   line-height: 2em;
-  border-top: 0.01em solid #333;
-  border-left: 0.01em solid #333;
+  border-top: 0.01em solid #c4c4c4;
+  border-left: 0.01em solid #c4c4c4;
 }
 
 .operator {
   background-color: #ff9500;
-  color: white;
 }
 
 .double {
   width: 50%;
-}
-
-.grey {
-  background-color: #aaa;
 }
 
 .clicked {

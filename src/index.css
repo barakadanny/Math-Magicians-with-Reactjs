@@ -14,7 +14,8 @@ html {
 body {
   display: flex;
   justify-content: center;
-  margin-top: 1em;
-  font-size: 2em;
-  background-color: #bbb;
+  margin-top: 5em;
+  font-size: 0.9em;
+  font-weight: 800;
+  background-color: #fff;
 }
