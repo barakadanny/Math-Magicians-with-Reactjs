@@ -17,7 +17,8 @@
 .result > p {
   padding: 0 0.2em;
   text-align: right;
-  line-height: 1em;
+  font-size: 2em;
+  line-height: 0.1em;
 }
 
 span {
