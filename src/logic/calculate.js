@@ -1,5 +1,6 @@
 import operate from './operate';
 
+// eslint-disable-next-line react/prefer-stateless-function
 function isNumber(item) {
   return !!item.match(/[0-9]+/);
 }
