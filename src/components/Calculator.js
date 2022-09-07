@@ -19,7 +19,7 @@ const Calculator = () => {
   };
 
   const { total, next, operation } = state;
-  const op = operation === '%' ? 'mod' : operation;
+  const op = operation === '%' ? '%' : operation;
   let result = '';
   if (total) {
     result = `${total} ${op || ''} ${next || ''}`;
