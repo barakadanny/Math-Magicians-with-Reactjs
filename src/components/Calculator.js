@@ -2,9 +2,6 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import './Calculator.css';
 
-// eslint-disable-next-line react/prefer-stateless-function
-// eslint-disable-line jsx-a11y/no-static-element-interactions
-// function to calculate the result of the operation
 const Calculator = () => {
   const [state, setState] = useState({
     total: null,
