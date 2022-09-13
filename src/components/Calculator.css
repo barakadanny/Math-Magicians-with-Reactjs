@@ -1,3 +1,8 @@
+.calculator-container {
+  display: flex;
+  justify-content: space-between;
+}
+
 .calculator {
   display: flex;
   flex-wrap: wrap;
@@ -43,4 +48,16 @@ span {
 
 .clicked {
   background-color: #cc8400;
+}
+
+/* mobile version */
+@media (max-width: 600px) {
+  .calculator-container {
+    flex-direction: column;
+  }
+
+  .calculator-usage {
+    margin-bottom: 1em;
+    text-align: center;
+  }
 }
