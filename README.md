@@ -13,6 +13,10 @@ This is a website for all fans of mathematics. It is a Single Page App (SPA) tha
 - JSX
 - Jest
 
+## Preview
+
+[Click here for Live Demo 🚀](https://mathmagicianx.netlify.app/)
+
 ### Getting Started
 
 To get a local copy up and running follow these simple example steps.
