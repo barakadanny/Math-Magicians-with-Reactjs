@@ -12,10 +12,23 @@ html {
 }
 
 body {
-  display: flex;
-  justify-content: center;
-  margin-top: 5em;
   font-size: 0.9em;
   font-weight: 700;
-  background-color: #fff;
+  padding-top: 5em;
+}
+
+.app-container {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 1em 2em;
+}
+
+/* Home page */
+.home {
+  text-align: center;
+}
+
+/* quote page */
+.quote {
+  text-align: center;
 }
