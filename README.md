@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Baraka Danny (Me)**
 
 - GitHub: [@barakadan](https://github.com/barakadanny)
-- LinkedIn: [danny baraka](https://www.linkedin.com/in/danny-baraka-589156169/)
+- LinkedIn: [danny baraka](https://www.linkedin.com/in/danny-baraka)
 
 ## 🤝 Contributing
 
